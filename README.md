@@ -1,2 +1,2 @@
 # Yugantar
-A Walk through to the history of India (nityam was here again)
+A Walk through to the history of India (dipanshu is a bitch)
