@@ -203,3 +203,15 @@ i{
         font-size:0.75rem;
     }
 }
+
+.main-content{
+    margin-left: 3%;
+    margin-right:3%;
+    background-color: #041e4f;
+    border-radius: 50px;
+}
+
+.one, .two, .three{
+    display:flex;
+    justify-content: ;
+}
